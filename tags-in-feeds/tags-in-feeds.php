@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Add tags to RSS feeds
-Plugin URI: http://
+Plugin URI: http://github.com/glasserc/
 Description: Add links to the tags in each post
 Version: 0.1
 Author: Ethan Glasser-Camp
-Author URI: http://
+Author URI: http://travelogue.betacantrips.com/
 */
 
-/*  Copyright YEAR  PLUGIN_AUTHOR_NAME  (email : PLUGIN AUTHOR EMAIL)
+/*  Copyright 2009  Ethan Glasser-Camp  (email : ethan@betacantrips.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
