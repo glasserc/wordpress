@@ -47,6 +47,7 @@ function tags_in_feeds_filter_the_content($data){
   if($TYPE == null) return $data;
   $post = get_post(get_the_ID());
   $terms = get_the_tags();
+  if(!$terms) return $data;
 
   $tags_array = array();
   foreach($terms as $tag){
